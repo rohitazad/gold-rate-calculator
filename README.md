@@ -2,6 +2,6 @@
 Gold Rate Calculator In JavaScript with all functionality 
 
 
-# YouTubelink
+# YT-Link :- https://youtu.be/BKK9B7MTN9U?si=TPnrrrEptB0KKv-V
 
 # Live Url :- https://gold-rate-calculator.vercel.app/
